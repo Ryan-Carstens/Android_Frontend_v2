@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contract-Creator</string>
+    <string name="enterContractDetailsActivity">enterContractDetailsActivity</string>
+    <string name="title_activity_view_user">ViewUserActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
